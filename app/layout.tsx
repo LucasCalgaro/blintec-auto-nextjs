@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     siteName: 'Blintec Proteção Veicular',
     images: [
       {
-        type: 'image/jpeg',
+        type: 'image/png',
         url: '/og-image.png',
 
       }
