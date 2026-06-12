@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     images: [
       {
         type: 'image/png',
-        url: '/og-image.png',
+        url: '/og-image-new.png',
 
       }
     ]
